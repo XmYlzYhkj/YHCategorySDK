@@ -1,0 +1,6 @@
+framework module YHCategorySDK {
+  umbrella header "YHCategorySDK.h"
+
+  export *
+  module * { export * }
+}
